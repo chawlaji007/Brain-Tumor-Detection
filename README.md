@@ -1,2 +1,3 @@
 # Brain-Tumor-Detection
- Brain Tumor Detection Using CNN
+ Brain Tumor Detection Using <b>CNN</b>
+ 
